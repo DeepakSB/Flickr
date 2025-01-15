@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flickr</string>
+    <string name="search_image">Search Images</string>
+    <string name="close">Close</string>
+    <string name="title">Title: %1$s</string>
+    <string name="description">Description: %1$s</string>
+    <string name="author">Author: %1$s</string>
+    <string name="published">Published: %1$s</string>
+    <string name="no_images_found">No images found</string>
+</resources>
